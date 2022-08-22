@@ -43,7 +43,7 @@ class SpeedometerWidgetPainter extends CustomPainter {
     num speedOffsetX = 0;
     num unitFontSize = (50 / 525) * speedWidth;
     num UnitYOffset = height - (60 / 525) * speedWidth;
-    num SpeedYOffset = height - (0.555) * speedWidth;
+    num SpeedYOffset = height - (0.655) * speedWidth;
     if (currentSpeed.length == 1) {
       speedOffsetX = 2 * speedWidth / 3.0;
     } else if (currentSpeed.length == 2) {

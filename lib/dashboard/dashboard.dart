@@ -107,7 +107,7 @@ class DashBoard extends StatelessWidget with DashBasementParameters {
             // log("${.6*(720*width*width)/(1497*height)}");
             num ratio = width / height;
             // log("ratio:${ratio}");
-            num left = .5 * width * 720 / 1497;
+            num left = .4 * width * 720 / 1497;
             left *= ratio;
             // if(ratio>1.96)
             // left=min(left, width*.3);
