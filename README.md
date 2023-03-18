@@ -3,4 +3,4 @@
 A hope of simulating high end motorcycle's stylish dashboard digital meter for low end motorcycle using android app
 
 # Screenshots
-![ninja_screen_record](https://user-images.githubusercontent.com/70688154/226099340-c3a964b3-08a7-410c-b53e-ab464c9a3976.gif)
+![ninja_screen_record](https://user-images.githubusercontent.com/70688154/226099657-1913a1f4-13eb-4b52-b606-7d57df87fd66.gif)
